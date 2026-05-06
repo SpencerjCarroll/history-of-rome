@@ -9,4 +9,4 @@ Concepts to Implement:
 * Citation methods
 * Extended events (lasting longer that 1yr)
 * Easy email sign-up / passcode login
-* User submission for new or inaccurate events
+* User submission for new events or corrections
